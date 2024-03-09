@@ -12,7 +12,7 @@
 
 - ⚡ Fun fact *I am Funny*
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="![image](https://github.com/joshianjavier/joshianjavier/assets/123368837/3b688cbf-0fe8-4a8a-89cd-2dce10d682da">
 
 
 <p align="left"> <a href="https://twitter.com/rishavchanda" target="blank"><img src="https://img.shields.io/twitter/follow/rishavchanda?logo=twitter&style=for-the-badge" alt="rishavchanda"  </p>
