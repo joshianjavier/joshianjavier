@@ -1,8 +1,8 @@
-[![MasterHead](https://en.idei.club/55453-anime-computer-room.html)
+[![MasterHead](![image](https://github.com/joshianjavier/joshianjavier/assets/123368837/c92835b8-4ffa-47ea-a7f4-7c91523f6d68)
 <h1 align="center">Hi 👋, I'm Joshua Javier</h1>
 <h3 align="center">A passionate FullStack Developer from Philippines</h3>
 <img align="right" alt="Coding" width="400" src="  ![image](https://github.com/joshianjavier/joshianjavier/assets/123368837/6efa0ec8-b7c7-4ed4-bfb7-eda6b94fd280)
-![Uploading image.png…]()
+![image](https://github.com/joshianjavier/joshianjavier/assets/123368837/300de677-d1dd-4dea-a8da-7ef59c2e034e)
 ">
 
 - 🌱 I’m currently learning SQLDatabase
