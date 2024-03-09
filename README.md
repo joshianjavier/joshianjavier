@@ -1,7 +1,8 @@
 (![image](https://github.com/joshianjavier/joshianjavier/assets/123368837/c92835b8-4ffa-47ea-a7f4-7c91523f6d68)
 <h1 align="center">Hi 👋, I'm Joshua Javier</h1>
 <h3 align="center">A passionate FullStack Developer from Philippines</h3>
-<img align="right" alt="" width="400" src="![image](https://github.com/joshianjavier/joshianjavier/assets/123368837/f5918ab5-ae9d-4dff-8f01-3377bf96a07e)">
+<img align="right" alt="" width="400" src="![image](https://github.com/joshianjavier/joshianjavier/assets/123368837/a5920490-f34c-4318-813a-1b9ea5231e88)
+">
 
 - 🌱 I’m currently learning SQLDatabase
 
