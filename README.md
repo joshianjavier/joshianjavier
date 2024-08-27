@@ -4,8 +4,8 @@
 <img align="right" alt="" width="400" src="![image](https://github.com/joshianjavier/joshianjavier/assets/123368837/a5920490-f34c-4318-813a-1b9ea5231e88)
 ">
 
-- 🌱 I’m currently learning SQLDatabase
-- 📫 How to reach me *adrianjoshuajavier@gmail.com*
+I’m currently learning SQLDatabase
+How to reach me *adrianjoshuajavier@gmail.com*
 
 
 
@@ -14,9 +14,9 @@
 <a href="https://twitter.com/potatoaintsad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="joshianjavier" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/javier-adrian-joshua-p-6a5055271/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joshianjavier" height="30" width="40" /></a>
 <a href="https://www.instagram.com/joshian.jvr/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="joshianjavier" height="30" width="40" /></a>
-<a href="https://www.facebook.com/adrianjoshua.javier/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="joshianjavier" height="30" width="40" /></a>
+<a href="https://www.facebook.com/adrianjoshua.javier/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="joshianjavier" height="30" width="40" /></a>
 </p>
 
 
-'<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=joshianjavier&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="rishavchanda" /></p>'
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=joshianjavier&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="rishavchanda" /></p>
 
