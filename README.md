@@ -1,4 +1,4 @@
-(![image](https://github.com/joshianjavier/joshianjavier/assets/123368837/c92835b8-4ffa-47ea-a7f4-7c91523f6d68)
+![image](https://github.com/joshianjavier/joshianjavier/assets/123368837/c92835b8-4ffa-47ea-a7f4-7c91523f6d68)
 <h1 align="center">Hi, I'm Joshua Javier</h1>
 <h3 align="center"></h3>
 <img align="right" alt="" width="400" src="![image](https://github.com/joshianjavier/joshianjavier/assets/123368837/a5920490-f34c-4318-813a-1b9ea5231e88)
@@ -18,5 +18,5 @@
 </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=joshianjavier&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="rishavchanda" /></p>
+'<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=joshianjavier&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="rishavchanda" /></p>'
 
