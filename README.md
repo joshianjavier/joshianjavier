@@ -18,6 +18,3 @@ How to reach me *adrianjoshuajavier@gmail.com*
 <a href="https://www.facebook.com/adrianjoshua.javier/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="joshianjavier" height="30" width="40" /></a>
 </p>
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=joshianjavier&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="rishavchanda" /></p>
-
